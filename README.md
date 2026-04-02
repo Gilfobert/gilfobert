@@ -42,7 +42,7 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VScode" width="40" height="40"/> </a> 
 <a href="https://get.opensuse.org/tumbleweed/" target="_blank"rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/openSUSE/artwork/master/logos/official/logo-color.svg" alt="openSUSE" width="100" height="40"/>
+        <img src="https://raw.githubusercontent.com/openSUSE/artwork/master/logos/official/logo-color.svg" alt="openSUSE" width="60" height="35"/>
           </a>
   <!--<a href="https://www.linux.org/" target="_blank"rel="noreferrer"> 
         <img src="https://www.linux.org/images/logo.png" alt="linux" width="160" height="40"/>
