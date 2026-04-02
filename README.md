@@ -38,9 +38,9 @@
 </div>
 
 <h2 align="left">Tools and OS:</h2>
-<p align="left"> <a href="VScode" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VScode" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-  </a>
+<p align="left"> 
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VScode" width="40" height="40"/> </a> 
 <a href="https://get.opensuse.org/tumbleweed/" target="_blank"rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/openSUSE/artwork/master/logos/official/logo-color.svg" alt="openSUSE" width="50" height="40"/>
           </a>
