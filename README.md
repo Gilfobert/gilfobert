@@ -44,7 +44,7 @@
 <a href="https://get.opensuse.org/tumbleweed/" target="_blank"rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/openSUSE/artwork/master/logos/official/logo-color.svg" alt="openSUSE" width="60" height="35"/>
           </a>
-  <!--<a href="https://www.linux.org/" target="_blank"rel="noreferrer"> 
+  <!-- <a href="https://www.linux.org/" target="_blank"rel="noreferrer"> 
         <img src="https://www.linux.org/images/logo.png" alt="linux" width="160" height="40"/>
-          </a>-->
-<!-- -->
+          </a> -->
+<!--комментарий, так же этим можно закомментироватьс строку-->
