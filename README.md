@@ -1,17 +1,11 @@
-
-  <div align="center">
-<div style="background-color: black; color: white; padding: 20px;">
-  </div>
-  <div align="center">
+ <div align="center">
     <img width="900" height="430" src="logo.png"/>
-  </div>
+ </div>
   <h1 align="left">Hey 👋 What's up?</h1>
 
   <!-- Other content goes here -->
 
   <!-- Your existing content -->
-
-</div>
 
 ###
 
